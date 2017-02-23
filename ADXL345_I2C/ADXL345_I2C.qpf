@@ -1,0 +1,6 @@
+DATE = "18:26:35 February 23, 2017"
+QUARTUS_VERSION = "12.0"
+
+# Revisions
+
+PROJECT_REVISION = "ADXL345_I2C"
